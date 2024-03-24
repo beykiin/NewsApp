@@ -3,8 +3,6 @@
 <div style="display-flex">
    <img src="SS1.png">
    <img src="SS2.png">
-</div>
-<div style="display-flex">
    <img src="SS3.png">
    <img src="SS4.png">
 </div>
