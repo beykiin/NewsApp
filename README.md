@@ -1,8 +1,8 @@
 <h1><i>NEWS APP</i></h1>
 <p>In my project, I created a simple news application. I fetched news headlines, content, images, and the names of the publishers from an existing JSON file. Additionally, I also created a banner at the top.</p>
-<div style="display: flex;">
+<div style="display: flex; justify-content: space-between;">
    <img src="SS1.png">
-   <img style="margin:10" src="SS2.png">
+   <img src="SS2.png">
 </div>
 <div style="display-flex">
    <img src="SS3.png">
